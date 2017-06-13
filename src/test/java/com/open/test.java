@@ -1,8 +1,9 @@
-package com.open.test;
+package com.open;
 
-import java.awt.*;
-import java.awt.List;
-import java.util.*;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
 
 /**
  * @Author: wsg
